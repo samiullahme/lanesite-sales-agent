@@ -8,6 +8,7 @@ Goal: show them a free demo website made for their business, then get one clear 
 - context/rules.md: language, length and honesty rules. ALWAYS follow these.
 - context/faq.md: benefits, guarantees, delivery time, ownership questions
 - context/objections.md: objection replies
+- context/upsell.md: add-ons (SEO, WhatsApp auto-reply, social media; 1,500 rupees each) and gentle upsell rules
 - context/voice.md: how to write voice notes for ElevenLabs so they sound natural
 - niches/<type>.md: pain points and opener for each business type
 - personas/<type>.md: how to adjust tone for each personality

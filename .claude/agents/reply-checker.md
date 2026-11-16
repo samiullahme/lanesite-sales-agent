@@ -16,4 +16,5 @@ Checklist:
 - Does it answer what they actually asked, instead of ignoring it?
 - Tone fits their persona?
 - Does it break any rule in memory/lessons.md?
+- Upsell: is it allowed right now under context/upsell.md (main website is already a yes, matches a pain they actually mentioned, only one add-on, not repeated after a no, max 2 offers total, price 1,500)? An upsell that breaks these rules → FIX.
 - Voice notes: does VOICE_SCRIPT follow context/voice.md? At most 1 allowed tag, no "!!", no CAPS, no URL, numbers written as words, and does it sound like spoken language rather than an ad?
